@@ -1,0 +1,178 @@
+{
+  "hpitem1": {
+    "max": 90,
+    "title": "HP%",
+    "subType": 0,
+    "item": 0,
+    "on": false,
+    "min": 51
+  },
+  "foodItems": [
+    {
+      "id": 3582,
+      "count": 1
+    },
+    {
+      "id": 3577,
+      "count": 1
+    }
+  ],
+  "autoEquip": [
+    {
+      "item1": 3081,
+      "title": "Auto Equip",
+      "item2": 3089,
+      "slot": 2,
+      "on": false
+    },
+    {
+      "item1": 3048,
+      "title": "Auto Equip",
+      "item2": 0,
+      "slot": 9,
+      "on": false
+    },
+    {
+      "item1": 0,
+      "title": "Auto Equip",
+      "item2": 0,
+      "slot": 0,
+      "on": false
+    },
+    {
+      "item1": 0,
+      "title": "Auto Equip",
+      "item2": 0,
+      "slot": 0,
+      "on": false
+    }
+  ],
+  "followLeader": "Gav",
+  "healing2": {
+    "max": 0,
+    "title": "HP%",
+    "on": false,
+    "min": 0,
+    "text": ""
+  },
+  "selectChannel": "1",
+  "ingame_macros": "",
+  "hasteSpell": "mega hur",
+  "manaTrain": {
+    "max": 100,
+    "title": "MP%",
+    "on": false,
+    "min": 0,
+    "text": "utana vid"
+  },
+  "manaitem2": {
+    "max": 85,
+    "title": "MP%",
+    "subType": 0,
+    "item": 3157,
+    "on": true,
+    "min": 0
+  },
+  "ingame_hotkeys": "CaveBot.setOff()\n  schedule(10*60000, function()\n    CaveBot.setOn()\n  end)",
+  "_configs": {
+    "targetbot_configs": {
+      "enabled": true,
+      "selected": "Przyklad"
+    },
+    "cavebot_configs": {
+      "enabled": false
+    }
+  },
+  "healing1": {
+    "max": 90,
+    "title": "HP%",
+    "on": true,
+    "min": 0,
+    "text": "exura vita"
+  },
+  "autoTasking": true,
+  "antiParalyze": "utani hur",
+  "spamue": "ice shark",
+  "moneyItems": [
+    {
+      "count": 1,
+      "id": 3031
+    },
+    {
+      "count": 1,
+      "id": 3035
+    },
+    {
+      "count": 1,
+      "id": 3043
+    }
+  ],
+  "dropItems": [
+    {
+      "id": 283,
+      "count": 1
+    },
+    {
+      "id": 284,
+      "count": 1
+    },
+    {
+      "id": 285,
+      "count": 1
+    }
+  ],
+  "healFriendPercent": "80",
+  "manaitem1": {
+    "max": 90,
+    "title": "MP%",
+    "subType": 0,
+    "item": 0,
+    "on": false,
+    "min": 51
+  },
+  "hpitem2": {
+    "max": 50,
+    "title": "HP%",
+    "subType": 0,
+    "item": 0,
+    "on": false,
+    "min": 0
+  },
+  "manaShield": "utamo vita",
+  "autoTradeMessage": "",
+  "healFriend": "ninja pertow",
+  "_macros": {
+    "": true,
+    "Follow": false,
+    "replace coins": true,
+    "Rainbow Outfit": false,
+    "Heal Friend": false,
+    "Stamina": true,
+    "Repair Cyleria/Soft boots": true,
+    "faster mana potting": false,
+    "staminamaker": false,
+    "Manasuj sie": false,
+    "Stack Items": true,
+    "Hold Target": false,
+    "JEDZ DYNIE": false,
+    "StaminaMaker": false,
+    "stamina": true,
+    "Auto utamo vita": true,
+    "anti push": false,
+    "RS": false,
+    "Sio Friend": false,
+    "Cyleria Boots": true,
+    "eat food": false,
+    "Select Channel": true,
+    "haste": true,
+    "Auto Bless": true,
+    "mana shield": false,
+    "utamo vita": true,
+    "Spy Level": false,
+    "EvilGrog": false,
+    "Exchange money": true,
+    "Temple afk": true,
+    "Auto follow": false,
+    "UtamoVita": true
+  }
+}

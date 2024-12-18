@@ -1,0 +1,50 @@
+{
+  "looting": {
+    "everyItem": false,
+    "items": [
+
+    ],
+    "maxDanger": 10,
+    "minCapacity": 100,
+    "containers": [
+
+    ]
+  },
+  "targeting": [
+    {
+      "groupAttackRadius": 7,
+      "groupAttackIgnoreParty": false,
+      "groupAttackTargets": 2,
+      "groupAttackIgnorePlayers": true,
+      "groupAttackDelay": 200,
+      "useGroupAttackRune": false,
+      "groupAttackRune": 0,
+      "groupRuneAttackRadius": 1,
+      "groupRuneAttackTargets": 2,
+      "groupRuneAttackDelay": 5000,
+      "useSpellAttack": true,
+      "minMana": 0,
+      "attackSpellDelay": 200,
+      "useRuneAttack": false,
+      "attackRune": 0,
+      "lure": false,
+      "lureCavebot": true,
+      "lureCount": 2,
+      "priority": 10,
+      "keepDistanceRange": 5,
+      "danger": 10,
+      "maxDistance": 10,
+      "keepDistance": false,
+      "avoidAttacks": false,
+      "chase": false,
+      "attackSpell": "arcane fire",
+      "dontLoot": false,
+      "runeAttackDelay": 2000,
+      "regex": "^.*$",
+      "name": "*",
+      "useGroupAttack": true,
+      "groupAttackSpell": "satanology",
+      "minManaGroup": 0
+    }
+  ]
+}
